@@ -1,0 +1,22 @@
+{
+    "anyCategory": "Any Category",
+    "linux": "Linux",
+    "bash": "Bash",
+    "uncatogorized": "Uncategorized",
+    "docker": "Docker",
+    "sql": "SQL",
+    "cms": "CMS",
+    "code": "Code",
+    "devops": "DevOps",
+    "anyDifficulty": "Any Difficulty",
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard",
+    "start": "Start",
+    "quiz": "Quiz",
+    "errorTryAgain": "Error, try again",
+    "atLeast1OptionMustBeSelected": "At least 1 option must be selected",
+    "submit": "Submit",
+    "yourResult": "Your Result",
+    "saveResult": "Save Result"
+}
